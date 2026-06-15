@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El libro que nunca terminamos
+
+This log tracks the cryptographic history and versioning for the song **El libro que nunca terminamos** (el-libro-que-nunca-terminamos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T20:54:39.506531 | `v1` | `153ffd86d9dc55f2ce97ff3e35d2af5412b26a22543ba2d60f4aaf411615476c` | `3fa265df3f960f64c2b129b5ca2d57b9b2941f0c2d8bf1e89415a6a697584124` | `2026-06-15_el-libro-que-nunca-terminamos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
