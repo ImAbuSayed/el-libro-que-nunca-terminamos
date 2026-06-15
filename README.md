@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche es nuestra y la calle está ardiendo, mami
+> Tu cuerpo es el libro que nunca termino leyendo
+> Buscando tu boca, el deseo va subiendo
+> Me tienes volando, te juro que no estoy mintiendo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
